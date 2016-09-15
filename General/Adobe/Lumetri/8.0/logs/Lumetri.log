@@ -1,0 +1,14 @@
+Machine:   Angels-MacBook-Pro.local in domain 
+User:      Angel
+Mode:      64-Bit
+Display:   Display not detectable
+Driver:    Driver not detectable
+CPU:       Name: Intel(R) Core(TM) i7-4750HQ CPU @ 2.00GHz
+           Model: 70, Family: 6, Stepping: 1 
+           Total Threads: 8
+           Features: MMX SSE SSE2 SSE3 SSSE3 SSE4.1 SSE4.2 AES AVX AVX2 FMA F16C POPCNT RDTSCP RDRAND
+Base path: /Applications/Adobe Premiere Pro CC 2014/Adobe Premiere Pro CC 2014.app/Contents/MacOS/
+Arguments: 
+
+21:31:10 [IrLog]           LogFile initialized
+21:31:10 [GlobalSettings]  Loading user settings from /Users/Angel/Documents/Adobe/Lumetri/8.0/settings/User_Settings.xml

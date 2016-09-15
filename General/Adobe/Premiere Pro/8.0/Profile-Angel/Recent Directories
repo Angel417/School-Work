@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PremiereData Version="3">
+	<recentcontainers Version="2">
+		<containercount>1</containercount>
+		<container.0 Version="1">
+			<containeritemcount>6</containeritemcount>
+			<containeritem.3 Version="1">
+				<containerpath>/XVolumes/XZXbkl/XUsers</containerpath>
+				<containername>Users</containername>
+			</containeritem.3>
+			<containeritem.0 Version="1">
+				<containerpath>/XVolumes/XZXbkl/XUsers/XAngel/XDesktop/Xblog selects</containerpath>
+				<containername>blog selects</containername>
+			</containeritem.0>
+			<containeritem.2 Version="1">
+				<containerpath>/XVolumes/XZXbkl/XUsers/XAngel</containerpath>
+				<containername>Angel</containername>
+			</containeritem.2>
+			<containeritem.4 Version="1">
+				<containerpath>/XVolumes/XZXbkl</containerpath>
+				<containername>ZXbkl</containername>
+			</containeritem.4>
+			<containeritem.5 Version="1">
+				<containerpath>volumes:</containerpath>
+				<containername>Local Drives</containername>
+			</containeritem.5>
+			<containeritem.1 Version="1">
+				<containerpath>/XVolumes/XZXbkl/XUsers/XAngel/XDesktop</containerpath>
+				<containername>Desktop</containername>
+			</containeritem.1>
+		</container.0>
+	</recentcontainers>
+</PremiereData>
