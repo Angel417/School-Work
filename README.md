@@ -1,2 +1,2 @@
 # School-Work
-This is al of my grad school work!
+This is all of my grad school work!
